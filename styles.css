@@ -2,12 +2,23 @@
 
 
 .accusations {
-    background-color: red;
+    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     height: 50px;
-    width: 175px;
+    width: 200px;
     text-align: center;
     border-radius: 7px;
     font-size: 32px;
     line-height: 50px;
+    float: left;
+    margin: 2px 2px;
+    
+
+}
+
+.headline {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: dimgray;
+    text-align: center;
+    padding: 8px;
 }
